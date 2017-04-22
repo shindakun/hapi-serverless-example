@@ -19,7 +19,7 @@
     {
       "id": "796f3aba",
       "type": "restApi",
-      "path": "/api/*",
+      "path": "/*",
       "domain": "hapi-demo.shindakun.net",
       "x": 320,
       "y": 220,
